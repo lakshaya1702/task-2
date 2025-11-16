@@ -1,0 +1,23 @@
+
+Interview Questions & Sample Answers (Task 2: Data Visualization and Storytelling)
+
+1. What is the importance of data visualization?
+- Visualization turns complex data into intuitive visuals that reveal patterns, trends, and outliers, enabling faster and better decision-making.
+
+2. When do you use a pie chart vs bar chart?
+- Use pie charts for simple part-to-whole with few categories (<=5). Use bar charts for comparing values across categories (more flexible and precise).
+
+3. How do you make visualizations more engaging?
+- Use clean layouts, highlight key values, add short contextual annotations, and enable interactivity (tooltips, filters) in dashboards.
+
+4. What is data storytelling?
+- Data storytelling combines data, visuals, and a narrative to convey insights and drive action. It answers "so what?" for stakeholders.
+
+5. How do you avoid misleading visualizations?
+- Start axes at sensible baselines, avoid distorting scales, label axes clearly, and show context like totals or sample sizes.
+
+6. What are best practices in dashboard design?
+- Keep it focused, maintain visual hierarchy, minimize colors, provide filters and clear KPI placement, and design for the target audience.
+
+7. What tools have you used for visualization?
+- Tableau, Power BI, matplotlib (Python), Plotly, and Excel pivot charts (example answers).
